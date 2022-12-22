@@ -1,0 +1,4 @@
+-önce "CREATE DATABASE karagozkiralama" yazıp veritabanı oluşturcaksın
+-db uzantılı olan senin veritabanın
+-herşey okul numarasıyla gönderilecek
+-yordamlar ve tetikliyicilerde ne oldukları yazıyor.
